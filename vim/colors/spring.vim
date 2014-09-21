@@ -12,13 +12,13 @@ let s:background = "1d1f21"
 let s:selection = "373b41"
 let s:line = "282a2e"
 let s:comment = "969896"
-let s:red = "cc6666"
-let s:orange = "de935f"
-let s:yellow = "f0c674"
-let s:green = "b5bd68"
-let s:aqua = "8abeb7"
-let s:blue = "81a2be"
-let s:purple = "b294bb"
+let s:red = "ff91a4" " pink salmon
+let s:orange = "ff9966" " atomic tangerine
+let s:yellow = "fce883" " crayola
+let s:green = "b1d631" " grass
+let s:aqua = "66cdaa" " medium aquamarine
+let s:blue = "86c3e6" " light columbia
+let s:purple = "7e8aa2" " athena
 let s:window = "4d5057"
 
 " Console 256 Colours
