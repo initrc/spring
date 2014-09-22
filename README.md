@@ -1,6 +1,8 @@
-spring
+Spring
 ======
 
-A theme for vim
+A color scheme for vim.
 
-Run ./install.sh to copy the theme to ~/.vim/colors/
+Run `./install.sh` to copy it to `~/.vim/colors/`.
+
+![Screenshot](screenshot.png)
